@@ -16,5 +16,5 @@ This exercise is designed to evaluate your abilities to
     - evaluate the performance of ML models
     - compare the performance of different ML models
     - use good code development practises
-    - use the typical tools of an NLP researcher/engineer.
+    - use the typical tools of an NLP researcher/engineer....
 
